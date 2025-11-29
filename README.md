@@ -1,6 +1,6 @@
 # 🧠 UEES – Inteligencia Artificial  
 ## 📚 Laboratorio Semana 1  
-### Andrea Tapian
+### Andrea Tapia Nicolalde
 
 Este repositorio contiene el desarrollo completo del **Laboratorio de la Semana 1** de la materia de **Inteligencia Artificial – UEES**.
 
